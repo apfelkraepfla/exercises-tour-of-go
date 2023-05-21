@@ -12,3 +12,5 @@ My exercise solutions for [`A tour of Go`](https://go.dev/tour/list).
 - p. 18, Stringer ([source](https://go.dev/tour/methods/18), [solution](methods-stringers.go))
 - p. 20, Errors ([source](https://go.dev/tour/methods/20), [solution](methods-errors.go))
 - p. 22, Readers ([source](https://go.dev/tour/methods/22), [solution](methods-readers.go))
+- p. 23, rot13Reader ([source](https://go.dev/tour/methods/23), [solution](methods-rot13reader.go))
+- p. 25, Images ([source](https://go.dev/tour/methods/25), [solution](methods-images.go))
