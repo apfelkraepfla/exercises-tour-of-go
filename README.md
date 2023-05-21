@@ -7,3 +7,4 @@ My exercise solutions for [`A tour of Go`](https://go.dev/tour/list).
 ## More types
 - p. 18, Slices ([source](https://go.dev/tour/moretypes/18), [solution](moretypes-slices.go))
 - p. 23, Maps ([source](https://go.dev/tour/moretypes/23), [solution](moretypes-maps.go))
+- p. 26, Fibonacci closure ([source](https://go.dev/tour/moretypes/26), [solution](moretypes-fibonacci-closure.go))
