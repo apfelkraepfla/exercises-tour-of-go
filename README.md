@@ -10,3 +10,4 @@ My exercise solutions for [`A tour of Go`](https://go.dev/tour/list).
 - p. 26, Fibonacci closure ([source](https://go.dev/tour/moretypes/26), [solution](moretypes-fibonacci-closure.go))
 ## Methods and interfaces
 - p. 18, Stringer ([source](https://go.dev/tour/methods/18), [solution](methods-stringers.go))
+- p. 20, Errors ([source](https://go.dev/tour/methods/20), [solution](methods-errors.go))
