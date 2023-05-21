@@ -14,3 +14,5 @@ My exercise solutions for [`A tour of Go`](https://go.dev/tour/list).
 - p. 22, Readers ([source](https://go.dev/tour/methods/22), [solution](methods-readers.go))
 - p. 23, rot13Reader ([source](https://go.dev/tour/methods/23), [solution](methods-rot13reader.go))
 - p. 25, Images ([source](https://go.dev/tour/methods/25), [solution](methods-images.go))
+## Concurrency
+- p. 7, Equivalent Binary Trees ([source](https://go.dev/tour/concurrency/7), [solution](concurrency-equivalent-binary-trees.go))
